@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "微信阅读",
+        "icon": "",
+        "appVersion": "V1.8.7",
+        "appSize": "24.0MB",
+        "appName": "com.tencent.weread",
+        "appUrl": "http://10.1.2.223:9998/app/weread_1.8.7.zip",
+        "appDesc": "",
+        "explain": "",
+        "categoryId": 0
+    },
+    {
+        "id": 2,
+        "name": "EInkBro",
+        "icon": "",
+        "appVersion": "V9.0.0",
+        "appSize": "2.3MB",
+        "appName": "com.einkbro.webbro",
+        "appUrl": "http://10.1.2.223:9998/app/einkbro_9.0.0.zip",
+        "appDesc": "",
+        "explain": "",
+        "categoryId": 0
+    },
+    {
+        "id": 3,
+        "name": "ViaBro",
+        "icon": "",
+        "appVersion": "V4.3.9",
+        "appSize": "1.16MB",
+        "appName": "com.viayaoo.viabro",
+        "appUrl": "http://10.1.2.223:9998/app/via_4.3.9.zip",
+        "appDesc": "",
+        "explain": "",
+        "categoryId": 0
+    },
+    {
+        "id": 4,
+        "name": "KOReader",
+        "icon": "",
+        "appVersion": "V2.5.1",
+        "appSize": "29.8MB",
+        "appName": "com.rocks.koreader",
+        "appUrl": "http://10.1.2.223:9998/app/koreader-v2022.05.1.zip",
+        "appDesc": "",
+        "explain": "",
+        "categoryId": 0
+    },
+    {
+        "id": 5,
+        "name": "Notion",
+        "icon": "",
+        "appVersion": "V0.6.426",
+        "appSize": "27.4MB",
+        "appName": "com.notion.notion",
+        "appUrl": "http://10.1.2.223:9998/app/notion.id_0.6.426.zip",
+        "appDesc": "",
+        "explain": "",
+        "categoryId": 0
+    },
+    {
+        "id": 6,
+        "name": "Chrome",
+        "icon": "",
+        "appVersion": "V102.0.5005",
+        "appSize": "59.7MB",
+        "appName": "com.google.chrome",
+        "appUrl": "http://10.1.2.223:9998/app/com.android.chrome_102.0.5005.zip",
+        "appDesc": "",
+        "explain": "",
+        "categoryId": 0
+    },
+    {
+        "id": 7,
+        "name": "CXFileManager",
+        "icon": "",
+        "appVersion": "V1.8.7",
+        "appSize": "5.43MB",
+        "appName": "com.cxinventor.file.explorer",
+        "appUrl": "http://10.1.2.223:9998/app/com.cxinventor.file.explorer_1.8.7.zip",
+        "appDesc": "",
+        "explain": "",
+        "categoryId": 0
+    }
+]
